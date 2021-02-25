@@ -3,23 +3,25 @@
     width:33.3%;
     height: 80px;
     background-color: black;
-    vertical-align: middle;
 }
 
 .home-phone-details {
     text-align: center;
     color: white;
-    vertical-align: middle;
 }
 
 .mobile-phone-details {
     text-align: center;
     color: white;
-    vertical-align: middle;
 }
 
 .email-details {
     text-align: center;
     color: white;
-    vertical-align: middle;
+}
+
+.logo {
+    height: 240px;
+    width: 100%;
+    background-color: black;
 }
