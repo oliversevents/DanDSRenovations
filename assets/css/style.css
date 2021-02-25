@@ -2,3 +2,15 @@
     float: left;
     width:33.3%;
 }
+
+.home-phone-details {
+    text-align: center;
+}
+
+.mobile-phone-details {
+    text-align: center;
+}
+
+.email-details {
+    text-align: center;
+}
