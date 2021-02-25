@@ -20,10 +20,14 @@
     color: white;
 }
 
-.logo {
+.logo-holder {
     height: 240px;
     width: 100%;
     background-color: black;
-    background-image: url("../assets/images/Logo.png");
 }
 
+.logo {
+    background-image: url("..assets/images/logo.png");
+    height: 100px;
+    width: 100%;
+}
